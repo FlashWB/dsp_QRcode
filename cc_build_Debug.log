@@ -1,0 +1,25 @@
+------------------------  PrewittEdgeloop2.pjt - Debug  ------------------------
+[_sa7121h.c] "C:\CCStudio_v3.3\C6000\cgtools\bin\cl6x" -g -q -o3 -fr"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/Debug" -i"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/include" -d"_DEBUG" -d"CHIP_DM642" -mv6400 -@"../Debug.lkf" "_sa7121h.c"
+
+[_tvp51xx.c] "C:\CCStudio_v3.3\C6000\cgtools\bin\cl6x" -g -q -o3 -fr"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/Debug" -i"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/include" -d"_DEBUG" -d"CHIP_DM642" -mv6400 -@"../Debug.lkf" "_tvp51xx.c"
+
+[dm642main.c] "C:\CCStudio_v3.3\C6000\cgtools\bin\cl6x" -g -q -o3 -fr"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/Debug" -i"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/include" -d"_DEBUG" -d"CHIP_DM642" -mv6400 -@"../Debug.lkf" "dm642main.c"
+"dm642main.c", line 347: warning: loop is not reachable from preceding code
+"dm642main.c", line 441: warning: variable "i" was declared but never referenced
+"dm642main.c", line 866: warning: variable "f2" was set but never used
+
+[iic.c] "C:\CCStudio_v3.3\C6000\cgtools\bin\cl6x" -g -q -o3 -fr"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/Debug" -i"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/include" -d"_DEBUG" -d"CHIP_DM642" -mv6400 -@"../Debug.lkf" "iic.c"
+
+[seed_cpld.c] "C:\CCStudio_v3.3\C6000\cgtools\bin\cl6x" -g -q -o3 -fr"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/Debug" -i"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/include" -d"_DEBUG" -d"CHIP_DM642" -mv6400 -@"../Debug.lkf" "seed_cpld.c"
+
+[ves_dm642.asm] "C:\CCStudio_v3.3\C6000\cgtools\bin\cl6x" -g -q -o3 -fr"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/Debug" -i"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/include" -d"_DEBUG" -d"CHIP_DM642" -mv6400 -@"../Debug.lkf" "ves_dm642.asm"
+
+[vportcap.c] "C:\CCStudio_v3.3\C6000\cgtools\bin\cl6x" -g -q -o3 -fr"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/Debug" -i"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/include" -d"_DEBUG" -d"CHIP_DM642" -mv6400 -@"../Debug.lkf" "vportcap.c"
+
+[vportdis.c] "C:\CCStudio_v3.3\C6000\cgtools\bin\cl6x" -g -q -o3 -fr"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/Debug" -i"C:/Users/Administrator/Desktop/SEED402_PrewittEdge/include" -d"_DEBUG" -d"CHIP_DM642" -mv6400 -@"../Debug.lkf" "vportdis.c"
+
+[Linking...] "C:\CCStudio_v3.3\C6000\cgtools\bin\cl6x" -@"Debug.lkf"
+<Linking>
+
+Build Complete,
+  0 Errors, 3 Warnings, 0 Remarks.
